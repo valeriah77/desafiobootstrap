@@ -53,17 +53,17 @@
     }
 
     .imagen2{
-        height: 250px;
-        width: 250px ;
-        margin: 5px;
-        padding: 15px; 
+        height: 150px;
+        width: 150px ;
+         margin: 5px;
+        padding: 5px;  
     } 
     
     .imagen3{
-        height: 250px;
-        width: 250px ;
+        height: 150px;
+        width: 150px ;
         margin: 5px;
-        padding:  15px;
+        padding:  5px; 
 
     }
     .imagen4{
