@@ -21,6 +21,13 @@
     padding: 15px;
     margin: 10px;
 }   
+.titulo2b{
+    color: #004aad;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    list-style-type: none;
+}
 
 .titulo4{
     
@@ -173,15 +180,7 @@ div ul li {
 
 .flexcontainer div{
     font-family: 'Roboto', sans-serif;
-    font-size: 11px;
-
-}
-.servicio{
-    margin-left: 15px;
-}
-
-
-
+    font-size: 11px;}
 
 .flex-container{
     height: 30em;
